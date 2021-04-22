@@ -1,5 +1,5 @@
 # notlockeduser.github.io
-Version for GitHub Pages of  web-devian-kit-project (https://github.com/notlockeduser/web-devian-kit-project)
+Version for GitHub Pages of  web-devian-kit-project-2 (https://github.com/notlockeduser/web-devian-kit-project-2)
 
 Run with ad blocker disabled.
 
